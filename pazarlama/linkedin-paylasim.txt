@@ -1,0 +1,18 @@
+Aralık 2020'de 100 lira olan bir sepet bugün 865 lira. Ama enflasyon herkes için aynı değil: eğitim hizmetleri %1.281, lokantalar ve konaklama %1.106 arttı; giyim ise yalnızca %209.
+
+Kullanıcı Arayüzü Tasarımı dersi için bir veri hikâyesi hazırladım ve şunu sordum: Hangi harcama kalemlerinin fiyatı genel enflasyonun en çok üzerinde arttı, bu kalemler bütçede ne kadar yer tutuyor?
+
+Sayfayı kaydırdıkça grafik değişiyor ve TÜİK verisiyle aynı noktadan yola çıkan 13 harcama grubunun nasıl ayrıştığını adım adım gösteriyor. İki bulgu öne çıkıyor:
+
+• 13 grubun 7'si ortalamanın üstünde artıyor ve bu gruplar bugünkü sepetin yaklaşık %69,5'ini oluşturuyor.
+• En çok artan kalem, en az artanın yaklaşık 6 katı kadar arttı.
+
+Sayfanın sonunda kendi başlangıç ve bitiş ayını seçip kendi karşılaştırmanı da yapabiliyorsun.
+
+Kullandığım araçlar: Python (pandas) ile analiz, D3.js ile grafikler, TÜİK Tüketici Fiyat Endeksi verisi. Kod ve analiz defteri GitHub'da açık. Yöntem bölümünde temizleme kararlarını da açıkça yazdım; örneğin eğitimdeki Eylül sıçramasının mevsimsel olduğu için neden silinmediğini.
+
+Canlı proje: https://kaansemihkurt.github.io/tufe-enflasyon/
+
+Geri bildirimlerini merak ediyorum.
+
+#VeriAnalizi #VeriGörselleştirme #TÜFE #D3js #Python

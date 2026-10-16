@@ -1,0 +1,23 @@
+VERİ HİKÂYESİ: TESLİM BİLGİLERİ
+================================
+Ders        : Kullanıcı Arayüzü Tasarımı (Büyük Veri Analistliği)
+Ad Soyad    : Kaan Semih Kurt
+Öğrenci No  : 2516016008
+
+Proje       : Enflasyon ortalaması neyi saklıyor?
+Çalışma sorusu: Aralık 2020'den bugüne hangi harcama kalemlerinin fiyatı genel enflasyonun en çok üzerinde arttı, bu kalemler bütçede ne kadar yer tutuyor?
+Veri seti   : TÜİK Tüketici Fiyat Endeksi, ana harcama grupları, aylık, Ocak 2005 - Eylül 2026 (https://data.tuik.gov.tr, erişim 14 Ekim 2026)
+
+TESLİM KALEMLERİ
+1. Canlı site bağlantısı  : https://kaansemihkurt.github.io/tufe-enflasyon/
+2. GitHub deposu (herkese açık): https://github.com/kaansemihkurt/tufe-enflasyon
+3. Analiz notebook'u      : notebooks/analiz.ipynb
+                            https://github.com/kaansemihkurt/tufe-enflasyon/blob/main/notebooks/analiz.ipynb
+4. Storyboard             : docs/storyboard.pdf
+5. Lighthouse mobil rapor ekran görüntüleri: docs/lighthouse/ (PNG) ve docs/lighthouse_mobile.pdf
+6. LinkedIn paylaşım metni ve görseli: pazarlama/linkedin-paylasim.txt, pazarlama/paylasim-gorseli.png (1200 x 627)
+7. Güncellenmiş portfolyo bağlantısı: https://kaansemihkurt.vercel.app
+8. Tasarım kararları notu : docs/tasarim-kararlari.pdf
+9. (İsteğe bağlı) LinkedIn gönderi bağlantısı: [GÖNDERİ YAYINLANINCA BAĞLANTIYI YAZ]
+
+ZIP DOSYA ADI: 2516016008_KaanSemihKurt_VeriHikayesi.zip
