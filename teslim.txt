@@ -16,7 +16,7 @@ TESLİM KALEMLERİ
 4. Storyboard             : docs/storyboard.pdf
 5. Lighthouse mobil rapor ekran görüntüleri: docs/lighthouse/ (PNG) ve docs/lighthouse_mobile.pdf
 6. LinkedIn paylaşım metni ve görseli: pazarlama/linkedin-paylasim.txt, pazarlama/paylasim-gorseli.png (1200 x 627)
-7. Güncellenmiş portfolyo bağlantısı: https://kaansemihkurt.vercel.app
+7. Güncellenmiş portföy bağlantısı: https://kaansemihkurt.vercel.app
 8. Tasarım kararları notu : docs/tasarim-kararlari.pdf
 
 ZIP DOSYA ADI: 2516016008_KaanSemihKurt_VeriHikayesi.zip
